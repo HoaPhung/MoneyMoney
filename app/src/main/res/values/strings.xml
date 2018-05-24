@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MM</string>
+
+    <string name="title_activity_expense_category">ExpenseCategoryActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="sett_reminder_header">Set Reminder</string>
+    <string name="sett_reminder_label">Remind Me</string>
+    <string name="sett_reminder_desc">We will remind you to make entiries of your expense</string>
+    <string name="sett_reminder_time_label">Set Reminder Time</string>
+    <string name="sett_reminder_time_content">7 : 00 PM</string>
+</resources>
